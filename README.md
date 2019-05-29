@@ -13,11 +13,13 @@ Repo  :
 - **Machine Learning Zero to Hero(Google I/O Extended) - Jhonathan Nolasco**
 
 Slide : 
+
 Repo  : 
 
 - **MVVM Pattern - Eduardo Medina**
 
 Slide : 
+
 Repo  : 
 
 
@@ -33,7 +35,7 @@ https://www.meetup.com/es-ES/Android-Dev-Peru/events/261522729/
 
 ## Sponsors
 
-- 
+- Toulouse Lautrec
 
 ## Grupo en Facebook 
 
