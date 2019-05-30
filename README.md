@@ -5,33 +5,32 @@ Principios S.O.L.I.D en Android - Machine Learning Zero to Hero - MVVM Pattern
 
 - **Principios S.O.L.I.D en Android - Raul Guzman**
 
-Slide : 
+Slide : https://docs.google.com/presentation/d/1jLXfi7dZ5kEbj7TGmjkf7BhOUe6k9Bl5aXaKdJ7XZEs/edit?usp=sharing
 
-Repo  : 
+Repo  : https://github.com/RaulitoGC/Technology-Store-App
 
 
 - **Machine Learning Zero to Hero(Google I/O Extended) - Jhonathan Nolasco**
 
-Slide : 
+Slide : https://docs.google.com/presentation/d/1THz8cS0r9wv89-pVzzYqS2YNFad5gotGwV6WkuHOpaM/edit?usp=sharing
 
-Repo  : 
+Repo  : https://github.com/jnolascob/svm-demo
 
 - **MVVM Pattern - Eduardo Medina**
 
-Slide : 
+Slide : https://docs.google.com/presentation/d/1nTwtU8OWYs_8Q3i_3hOPAWodDpDKzO--uA-4b6LUr8g/edit?usp=sharing
 
-Repo  : 
+Repo  : https://github.com/emedinaa/kotlin-mvvm
 
 
 ## Organización 
 [Android Dev Perú](https://github.com/Android-Dev-Peru)
 
-https://www.meetup.com/es-ES/Android-Dev-Peru/events/261522729/
-
+https://www.facebook.com/events/2276454632593963/
 
 
 ## Álbum de fotos del MeetUp
-
+https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
 
 ## Sponsors
 
